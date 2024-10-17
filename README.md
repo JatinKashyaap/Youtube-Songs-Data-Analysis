@@ -8,8 +8,6 @@ optimizing their YouTube song content.
 
 
 1. Exploratory Data Analysis
-   # My Project
-This is an example project.
 
-![Project Preview](https://github.com/johndoe/my-repo/blob/main/screenshot.png)
+![Project Preview](https://github.com/JatinKashyaap/Youtube-Songs-Data-Analysis/blob/main/Screenshot%202024-07-08%20174557.png)
 
