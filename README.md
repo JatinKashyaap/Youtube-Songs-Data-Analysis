@@ -13,13 +13,14 @@ optimizing their YouTube song content.
 
 2. Content and Channel Analysis
 
-   ![Project Preview](https://github.com/JatinKashyaap/Youtube-Songs-Data-Analysis/blob/main/Screenshot%202024-07-08%20174557.png)
+   ![Project Preview](https://github.com/JatinKashyaap/Youtube-Songs-Data-Analysis/blob/main/Screenshot%202024-07-08%20180113.png
+)
 
 3. Temporal Trends
 
-   ![Project Preview](https://github.com/JatinKashyaap/Youtube-Songs-Data-Analysis/blob/main/Screenshot%202024-07-08%20174557.png)
+   ![Project Preview](https://github.com/JatinKashyaap/Youtube-Songs-Data-Analysis/blob/main/Screenshot%202024-07-08%20180126.png)
 
 4. User engagement insights
 
-   ![Project Preview](https://github.com/JatinKashyaap/Youtube-Songs-Data-Analysis/blob/main/Screenshot%202024-07-08%20174557.png)
+   ![Project Preview](https://github.com/JatinKashyaap/Youtube-Songs-Data-Analysis/blob/main/Screenshot%202024-07-08%20180134.png)
 
